@@ -66,7 +66,7 @@ Bem-vindo ao meu perfil! Aqui, armazeno conteúdos de projetos pessoais, trabalh
             <a href="https://github.com/MiguelGrigorio">
                 <img alt="Minhas estatísticas" src="https://github-readme-stats.vercel.app/api?username=MiguelGrigorio&theme=vue-dark&show_icons=true&line_height=27&count_private=true" height="180em" />
             </a>
-            <a href="https://github.com/luizcarloscf">
+            <a href="https://github.com/MiguelGrigorio">
                 <img alt="Linguagens que eu uso" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelGrigorio&layout=compact&theme=vue-dark&show_icons=true&line_height=27" height="180em"  />
             </a>
         </p>
