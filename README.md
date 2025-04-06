@@ -3,7 +3,7 @@ Aoba, eu sou o Miguel
 <img src="xmm.webp" style="display:inline-block; height:1em; width:auto;transform:translate(0, 0.1em)">
 </h2>
 
-Bem-vindo ao meu perfil! Aqui, armazeno conteúdos de projetos pessoais, trabalhos acadêmicos e materiais de aula. Atualmente, estou cursando Bacharelado em Engenharia Elétrica no [IFES](https://guarapari.ifes.edu.br). Tenho interesse nas áreas de robótica, aprendizado de máquina e visão computacional. Embora ainda não tenha iniciado estudos formais, também estou interessado em cibersegurança. Normalmente, programo em [Python](https://www.python.org/), mas no passado, trabalhei em projetos utilizando [Node.js](https://www.nodejs.org). Atualmente faço parte do [Lab. Penguin](https://www.eletroifes.com.br/penguin) no projeto de integração da [Tiffany](https://github.com/Penguin-Lab/tiffany) ao Espaço Inteligente do Lab. SEA. 
+Bem-vindo ao meu perfil! Aqui, armazeno conteúdos de projetos pessoais, trabalhos acadêmicos e materiais de aula. Atualmente, estou cursando Bacharelado em Engenharia Elétrica no [IFES](https://guarapari.ifes.edu.br). Tenho interesse nas áreas de robótica, aprendizado de máquina e visão computacional. Normalmente, programo em [Python](https://www.python.org/), mas no passado, trabalhei em projetos utilizando [Node.js](https://www.nodejs.org). Atualmente faço parte do [Lab. Penguin](https://www.eletroifes.com.br/penguin) no projeto de integração da [Tiffany](https://github.com/Penguin-Lab/tiffany) ao Espaço Inteligente do [Lab. SEA](https://github.com/labsea). 
 
 ---
 <details>
