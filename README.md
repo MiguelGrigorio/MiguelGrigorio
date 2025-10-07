@@ -1,19 +1,17 @@
-<h2 align="center">
-Aoba, eu sou o Miguel
-<img src="xmm.webp" style="display:inline-block; height:1em; width:auto;transform:translate(0, 0.1em)">
-</h2>
+<h2>Hello, I’m Miguel <img src="xmm.webp" style="display:inline-block; height:1em; width:auto;transform:translate(0, 0.1em)"></h2>
 
-Bem-vindo ao meu perfil! 👋  
-Sou graduando em **Engenharia Elétrica** no [IFES](https://guarapari.ifes.edu.br), com foco em **Robótica** e **Visão Computacional**.  
-Atualmente, integro o [Lab. Penguin](https://www.eletroifes.com.br/penguin) e o [Lab. SEA](https://github.com/labsea), atuando no projeto **Agente Autônomo para Navegação em Ambientes Virtuais Complexos Utilizando Visão Computacional e Aprendizado por Reforço**.  
+Welcome to my profile! 
 
-Tenho experiência em **Python** e estou aprendendo **ROS2**, com interesse especial em aplicações de **Visão Computacional e Machine Learning** para sistemas robóticos autônomos.  
-Aqui, você vai encontrar meus projetos pessoais, acadêmicos e experimentos com IA e robótica.  
+I am an **Electrical Engineering** student at [IFES](https://guarapari.ifes.edu.br) and I expect to graduate in 2027. I am 21 years old and I am focusing on **Robotics** and **Computer Vision**.
+I am currently part of [Lab. Penguin](https://www.eletroifes.com.br/penguin) and [Lab. SEA](https://github.com/labsea), working on the project **Autonomous Agent for Navigation in Complex Virtual Environments Using Computer Vision and Reinforcement Learning**.  
+
+I have experience with **Python** and I am learning **ROS2**, with a special interest in applying **Computer Vision** and **Machine Learning** to autonomous robotic systems.  
+Here you will find my personal and academic projects, as well as experiments in AI and robotics.  
 
 ---
 
 <details>
-    <summary><b> Linguagens e Ferramentas</b></summary>
+    <summary><b>Languages and Tools</b></summary>
     <br>
     <p align="center">
         <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" /></a>
@@ -37,18 +35,18 @@ Aqui, você vai encontrar meus projetos pessoais, acadêmicos e experimentos com
 ---
 
 <details>
-    <summary><b> Estatísticas do GitHub</b></summary>
+    <summary><b>GitHub Stats</b></summary>
     <br>
     <p align="center">
-        <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=MiguelGrigorio&theme=vue-dark&show_icons=true&count_private=true" height="180em" />
-        <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelGrigorio&layout=compact&theme=vue-dark" height="180em" />
+        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MiguelGrigorio&theme=vue-dark&show_icons=true&count_private=true" height="180em" />
+        <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelGrigorio&layout=compact&theme=vue-dark" height="180em" />
     </p>
 </details>
 
 ---
 
 <details>
-    <summary><b> Contato</b></summary>
+    <summary><b>Contact</b></summary>
     <br>
     <p align="center">
         <a href="mailto:miguelgrigorio@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
